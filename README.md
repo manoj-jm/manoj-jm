@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manoj-jm
+- 👋 Hi, I AM J Manoj
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web developers
