@@ -1,5 +1,6 @@
 #  💫 Hello World! 🙋🏻‍♂️, I'm J Manoj
-   keen to learn MERN | AI and ML 
+   keen to learn MERN | AI and ML </br></br>
+![](https://komarev.com/ghpvc/?username=manoj-jm&label=PROFILE+VIEWS&color=brightgreen&style=plastic)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manoj-jm&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
